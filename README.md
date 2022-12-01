@@ -8,7 +8,7 @@ function AboutMe = {
   status: "Buscando estágio na área de desenvolvimento";
 }
 ```
-
+![Snake animation](https://github.com/brenneralexandria/brenneralexandria/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center"> Focado em: </h2>
 <section align="center">
@@ -19,7 +19,7 @@ function AboutMe = {
 
 <h2 align="center"> Ferramentas do dia a dia: </h2>
 <section align="center">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" />
