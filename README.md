@@ -12,9 +12,9 @@ function AboutMe = {
 
 <h2 align="center"> Focado em: </h2>
 <section align="center">
+<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
 </section>  
 
 <h2 align="center"> Ferramentas do dia a dia: </h2>
