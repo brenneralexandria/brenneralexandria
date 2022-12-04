@@ -4,7 +4,7 @@
 function AboutMe = {
   name: "Brenner Alexandria",
   age: "28",
-  studying: "Análise e Desenvolvimento de Sistemas",
+  studying: "Análise e Desenvolvimento de Sistemas - 3° período",
   status: "Buscando estágio na área de desenvolvimento";
 }
 ```
