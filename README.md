@@ -8,6 +8,11 @@ function AboutMe = {
   status: "Buscando estágio na área de desenvolvimento";
 }
 ```
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenneralexandria&show_icons=true&count_private=true&hide_border=true&title_color=d19a66&&icon_color=d19a66&text_color=c9d1d9&bg_color=0d1117" alt="Brenner Alexandria github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenneralexandria&layout=compact&hide_border=true&title_color=d19a66&&text_color=ffffff&bg_color=0d1117" />
+</div>
+
 ![Snake animation](https://github.com/brenneralexandria/brenneralexandria/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center"> Focado em: </h2>
@@ -38,10 +43,5 @@ function AboutMe = {
 <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117" />
 </section>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenneralexandria&show_icons=true&count_private=true&hide_border=true&title_color=d19a66&&icon_color=d19a66&text_color=c9d1d9&bg_color=0d1117" alt="Brenner Alexandria github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenneralexandria&layout=compact&hide_border=true&title_color=d19a66&&text_color=ffffff&bg_color=0d1117" />
-</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=footer" />
