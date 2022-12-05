@@ -37,6 +37,6 @@ function AboutMe {
   
 <h2 align="left"> Outros conhecimentos: </h2>
 <section align="left">
-<img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117" />
-<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-DF2B2D?style=flat-square&logo=java&logoColor=white" />
+<img alt="NodeJs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </section>
