@@ -22,13 +22,11 @@ function AboutMe {
 
 <h2 align="left"> Ferramentas do dia a dia: </h2>
 <section align="left">
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" />
-<img alt="microsoft_office" src="https://img.shields.io/badge/-microsoft_office-F05032?style=flat-square&logo=microsoft_office&logoColor=white" />
-<img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-2E9DE8?style=flat-square&logo=visual-studio-code&logoColor=#22A4E7" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117" />
+<img alt="github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
+<img alt="Trello" src="https://img.shields.io/badge/-Trello-0073B5?style=flat-square&logo=Trello&logoColor=white" />
+<img alt="Notion" src="https://img.shields.io/badge/-Notion-F2F2F2?style=flat-square&logo=Notion&logoColor=black" />
 </section> 
 
 <h2 align="left"> Estudando no momento: </h2>
