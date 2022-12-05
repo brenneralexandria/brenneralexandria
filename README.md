@@ -32,7 +32,7 @@ function AboutMe {
 <h2 align="left"> Estudando no momento: </h2>
 <section align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" />
+<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-000000?style=flat-square&logo=mysql&logoColor=DC7500" />
 </section> 
   
 <h2 align="left"> Outros conhecimentos: </h2>
