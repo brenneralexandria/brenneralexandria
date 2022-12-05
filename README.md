@@ -1,14 +1,15 @@
 ```JavaScript
 function AboutMe {
-  name: "Brenner Alexandria",
-  age: "28",
-  studying: "Análise e Desenvolvimento de Sistemas - 3° período",
-  status: "Buscando estágio na área de desenvolvimento";
+  Name: "Brenner Alexandria",
+  Age: "28",
+  Studying: "Análise e Desenvolvimento de Sistemas - 3° período",
+  Status: "Buscando estágio na área de desenvolvimento",
+  Me: "Sou certificado em metodologias ágeis,marketing digital e designer. 
+  Fazendo algumas pesquisas e cursos me identifiquei com o Front-end e desde então venho estudando e 
+  aplicando tudo que venho adiquirindo de conhecimento em JavaScript, CSS e HTML.";
   }
 ```
-
 <h3> TalkMe: </h3>
-
 <p><a href="https://www.linkedin.com/in/brenner-alexandria-b73694205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://api.whatsapp.com/send?phone=5531992070867&text=Vim%20pelo%20GitHub!" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -40,9 +41,9 @@ function AboutMe {
 <img alt="NodeJs" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </section>
 
+![Snake animation](https://github.com/brenneralexandria/brenneralexandria/blob/output/github-contribution-grid-snake.svg)
+
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenneralexandria&show_icons=true&count_private=true&hide_border=true&title_color=d19a66&&icon_color=d19a66&text_color=c9d1d9&bg_color=0d1117" alt="Brenner Alexandria github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenneralexandria&layout=compact&hide_border=true&title_color=d19a66&&text_color=ffffff&bg_color=0d1117" />
 </div>
-
-![Snake animation](https://github.com/brenneralexandria/brenneralexandria/blob/output/github-contribution-grid-snake.svg)
