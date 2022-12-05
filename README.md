@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=193549&height=120&section=header&animation=twinkling&fontAlignY=35" />
 
 ```JavaScript
-function AboutMe = {
+function AboutMe {
   name: "Brenner Alexandria",
   age: "28",
   studying: "Análise e Desenvolvimento de Sistemas - 3° período",
