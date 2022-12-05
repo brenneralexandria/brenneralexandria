@@ -10,7 +10,9 @@ function AboutMe {
   }
 ```
 <h3> TalkMe: </h3>
-<p><a href="https://www.linkedin.com/in/brenner-alexandria-b73694205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://api.whatsapp.com/send?phone=5531992070867&text=Vim%20pelo%20GitHub!" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/brenner-alexandria-b73694205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://api.whatsapp.com/send?phone=5531992070867&text=Vim%20pelo%20GitHub!" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
+<a href="obrenneralexandria@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-ED433D.svg?&style=for-the-badge&logo=gmail&logoColor=white"
 </p>
 
 <h3 align="left"> Focando em: </h3>
