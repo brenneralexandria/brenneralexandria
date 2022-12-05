@@ -15,29 +15,30 @@ function AboutMe {
 
 <h2 align="left"> Focado em: </h2>
 <section align="left">
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-D99A26?style=flat-square&logo=JavaScript&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1396CE?style=flat-square&logo=css3&logoColor=white" />
 </section>  
 
 <h2 align="left"> Ferramentas do dia a dia: </h2>
 <section align="left">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" />
+<img alt="microsoft_office" src="https://img.shields.io/badge/-microsoft_office-F05032?style=flat-square&logo=microsoft_office&logoColor=white" />
 <img src="https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/-trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117" />
 </section> 
 
 <h2 align="left"> Estudando no momento: </h2>
 <section align="left">
-<img src="https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react.js&labelColor=0D1117" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" />
 </section> 
   
 <h2 align="left"> Outros conhecimentos: </h2>
 <section align="left">
 <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117" />
+<img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </section>
