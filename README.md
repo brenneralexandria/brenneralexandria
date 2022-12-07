@@ -6,7 +6,7 @@ function AboutMe {
   Status: "Buscando estágio na área de desenvolvimento",
   Me: "Sou certificado em metodologias ágeis,marketing digital e designer. 
   Fazendo algumas pesquisas e cursos me identifiquei com o Front-end e desde então venho estudando e 
-  aplicando tudo que venho adiquirindo de conhecimento em JavaScript, CSS e HTML.";
+  aplicando tudo que venho adquirindo de conhecimento em JavaScript, CSS e HTML.";
   }
 ```
 <h3> TalkMe: </h3>
