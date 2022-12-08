@@ -34,7 +34,7 @@ function AboutMe {
 <h3 align="left"> Próximos estudos: </h3>
 <section align="left">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-000000?style=flat-square&logo=mysql&logoColor=DC7500" />
+<img alt="Mysql" src="https://img.shields.io/badge/-Mysql-F2F2F2?style=flat-square&logo=mysql&logoColor=DC7500" />
 </section> 
   
 <h3 align="left"> Outros conhecimentos: </h3>
