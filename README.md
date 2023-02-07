@@ -13,7 +13,7 @@
 
 My name name is Brenner Alexandria.
 
-- Developer.
+- Frontend Developer.
 - Conhecimento extra: Excel Avançado e VBA, Power BI, Metodologias ágeis.
 
 ### Main techs
