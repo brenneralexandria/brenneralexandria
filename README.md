@@ -1,4 +1,6 @@
-### Hello world!!!
+## Olá, bem vindo(a) ao meu perfil.
+
+<p>Meu nome é Brenner Alexandria, tenho 28 anos e moro em Belo horizonte. Estou cursando Análise e Desenvolvimento de Sistemas, e atualmente estou aprimorando as minhas habilidades em frontend. Aqui vou compartilhar o meu aprendizado e desenvolvimento com projetos feitos durante os meus cursos e projetos pessoais.<p/>
 
 <div>
   <a href="mailto:obrenneralexandria@gmail.com">
@@ -9,30 +11,20 @@
   </a>
 </div>
 
-##
+## Tecnologias e Ferramentas
 
-My name name is Brenner Alexandria.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 
-- Frontend Developer.
-- Conhecimento extra: Excel Avançado e VBA, Power BI, Metodologias ágeis.
+## Estudando
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /><img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 
-### Main techs
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+## Outras Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" /><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
 
-##
-
-#### Other techs
-<div style="display: inline_block"><br>
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-
-##
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenneralexandria&show_icons=true&theme=dracula">
