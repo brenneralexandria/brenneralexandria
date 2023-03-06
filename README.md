@@ -1,4 +1,4 @@
-## Hello, welcome to my profile.
+## Hello, welcome to my profile...
 
 <p>My name is Brenner Alexandria, I'm 28 years old and I live in Belo Horizonte. I'm studying Systems Analysis and Development, and I'm currently improving my frontend skills. Here I will share my learning and development with projects made during my courses and my personal projects.<p/>
 
