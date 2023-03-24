@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile :))
 
-<p>My name is Brenner Alexandria, I'm 28 years old and I live in Belo Horizonte. I'm studying Systems Analysis and Development, and I'm currently improving my frontend skills. Here I will share my learning and development with projects made during my courses and my personal projects.<p/>
+<p>My name is Brenner Alexandria, I'm 28 years old and I live in Belo Horizonte. I'm studying Systems Analysis and Development, and I'm currently improving my backend skills. Here I will share my learning and development with projects made during my courses and my personal projects.<p/>
 
 <div>
   <a href="mailto:obrenneralexandria@gmail.com">
@@ -13,16 +13,19 @@
 
 ## Technologies and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right: 10px;" /><img
+src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"  width="80" height="40" style="margin-right: 10px;" /><img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 10px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 10px;" /><img
+src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg" width="40" height="40" style="margin-right: 10px;" />
 
 ## Studying
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://spring.io/img/spring.svg" width="40" height="40" style="margin-right: 50" /><img
+src="https://www.svgrepo.com/show/349342/docker.svg" width="40" height="40" style="margin-left: 50" />
 
-## Other Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40" /><img 
+## Other Technologies and Tools
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img                                               
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /><img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
 
 
