@@ -15,8 +15,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right: 10px;" /><img
 src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"  width="80" height="40" style="margin-right: 10px;" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 10px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 10px;" /><img
-src="https://www.logo.wine/a/logo/NetBeans/NetBeans-Logo.wine.svg" width="40" height="40" style="margin-right: 10px;" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 10px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 10px;" />
 
 ## Studying
 <img src="https://spring.io/img/spring.svg" width="40" height="40" style="margin-right: 50" /><img
