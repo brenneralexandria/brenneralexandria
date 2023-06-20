@@ -27,3 +27,5 @@
 
 ## Other Technologies and Tools
 Frontend - (Javascript, HTML, CSS) – Basic;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenneralexandria&layout=compact)
