@@ -13,16 +13,17 @@
 
 ## Technologies and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right: 10px;" /><img
-src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"  width="80" height="40" style="margin-right: 10px;" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 10px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 10px;" />
+* Java;
+* SQL - Intermediate;
+* PostgreSQL;
+* Agile methodologies - Scrum and Kanban;
+* Git;
+* Excel - Intermediate.
 
 ## Studying
-<img src="https://spring.io/img/spring.svg" width="40" height="40" style="margin-right: 50" /><img
-src="https://www.svgrepo.com/show/349342/docker.svg" width="40" height="40" style="margin-left: 50" />
+
+  * Spring boot – Studying;
+  * Docker – Studying.
 
 ## Other Technologies and Tools
-<img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img                                               
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+Frontend - (Javascript, HTML, CSS) – Basic;
