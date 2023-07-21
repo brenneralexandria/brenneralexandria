@@ -26,7 +26,7 @@
 * CSS.
 
 ## Operational systems
-* Windows;
+* Windows.
 
 ## Studying
 
