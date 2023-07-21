@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile xD
 
-<p>My name is Brenner Alexandria, I'm 28 years old and I live in Belo Horizonte. I'm studying Systems Analysis and Development, and I'm currently improving my backend skills. Here I will share my learning and development with projects made during my courses and my personal projects.<p/>
+<p>I'm studying Systems Analysis and Development and I'm currently doing an internship in vulnerability management and RedTeam. Here I will share my learning and development with projects made during my courses and personal projects.<p/>
 
 <div>
   <a href="mailto:obrenneralexandria@gmail.com">
@@ -11,21 +11,36 @@
   </a>
 </div>
 
-## Technologies and Tools
+<h1>Technologies and tools I know</h1>
 
+## Backend
 * Java;
+* Framework Spring
 * SQL - Intermediate;
-* PostgreSQL;
-* Agile methodologies - Scrum and Kanban;
-* Git;
-* Excel - Intermediate.
+* PostgreSQL.
+
+## Frontend
+
+* JavaScript;
+* Html;
+* CSS.
+
+## Operational systems
+* Windows;
 
 ## Studying
 
-  * Spring boot – Studying;
-  * Docker – Studying.
+  * Python;
+  * Linux;
+  * Azure;
+  * Internet in general;
+  * AWS.
 
-## Other Technologies and Tools
-Frontend - (Javascript, HTML, CSS) – Basic;
+## Other Tools
+
+* Agile methodologies - Scrum and Kanban;
+* Git;
+* PowerBi;
+* Excel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenneralexandria&layout=compact)
