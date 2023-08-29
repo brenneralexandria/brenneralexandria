@@ -1,6 +1,18 @@
 ## Hello, welcome to my profile xD
 
-<p>I'm studying Systems Analysis and Development and I'm currently doing an internship in vulnerability management and RedTeam. Here I will share my learning and development with projects made during my courses and personal projects.<p/>
+<p>Hi, my name is Brenner and I am a student of Computer Science. I currently work as an information security consultant.
+
+My goal is to become a devSecOps engineer. I am currently studying Python, operating systems, Cloud in general, and everything related to the internet.
+
+Skills
+* Backend: Java, Spring framework, SQL (Intermediate), PostgreSQL
+* Frontend: Javascript, HTML, CSS
+
+Knowledge
+* Agile methodologies - Scrum and Kanban
+* Git
+* Power BI
+* Excel<p/>
 
 <div>
   <a href="mailto:obrenneralexandria@gmail.com">
@@ -10,37 +22,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
-<h1>Technologies and tools I know</h1>
-
-## Backend
-* Java;
-* Framework Spring
-* SQL - Intermediate;
-* PostgreSQL.
-
-## Frontend
-
-* JavaScript;
-* Html;
-* CSS.
-
-## Operational systems
-* Windows.
-
-## Studying
-
-  * Python;
-  * Linux;
-  * Azure;
-  * Internet in general;
-  * AWS.
-
-## Other Tools
-
-* Agile methodologies - Scrum and Kanban;
-* Git;
-* PowerBi;
-* Excel.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenneralexandria&layout=compact)
